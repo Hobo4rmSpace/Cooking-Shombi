@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c34f58d360043f54192630d2d3a95eb4
+  productGUID: 62c881a4fe3a3f54c87da8cd686e9a2f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Cooking Shombi
+  productName: Tutorial Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -834,16 +834,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Cooking Shombi
-  metroPackageVersion: 
+  metroPackageName: TutorialProject
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Cooking Shombi
+  metroApplicationDescription: Tutorial Project
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Tutorial Project
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -908,12 +908,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 85723c3c-a2e3-4ef6-a646-7e29d695db16
+  cloudProjectId: b1047790-1fd3-4a8e-b275-4c799d40589e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Cooking Shombi
+  projectName: Tutorial Project
   organizationId: alien4rmspace
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
